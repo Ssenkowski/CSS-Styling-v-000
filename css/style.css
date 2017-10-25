@@ -40,7 +40,7 @@ text-shadow: 0 2px 3px #000;
 
 /* ID selector (applies to only one element per page)*/
 
-#logo {
+#logo { /* select elements with id="logo" */
 
   background-color: aqua
 }
