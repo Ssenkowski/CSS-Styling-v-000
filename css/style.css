@@ -14,3 +14,4 @@ property: value
 p{ /*select all <p>*/
   font-size: 1em; /* 16px, ?pt, 100%, 1 em*/ /* 1em = number of px's divided by 16*/
   line-height: 1.5em
+}
